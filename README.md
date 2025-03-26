@@ -10,7 +10,7 @@ A conversational Telegram-like bot for Bale Messenger that collects user informa
 
 ## Code Structure 🏗️
 ```python
-from balecore import MainBot, Filters
+from balecore import MainBot
 import asyncio
 
 bot = MainBot(Token="YOUR_TOKEN_HERE", url="https://tapi.bale.ai")
