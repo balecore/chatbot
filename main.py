@@ -1,4 +1,4 @@
-from balecore import MainBot, Filters
+from balecore import MainBot
 import asyncio
 
 # 🤖 Initialize bot with token and API URL
