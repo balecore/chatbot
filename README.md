@@ -33,8 +33,8 @@ async def handle_input(bot, update, full_update, message, User=None, File=None):
         else:
             await bot.send_message(message.chat.id, "⚠️ Please enter a valid age (1-100)")
 
-asyncio.run(bot.start())```
+asyncio.run(bot.start())
 
 ## Features ✨
 ```bash
-pip install balecore```
+pip install balecore
